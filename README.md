@@ -8,6 +8,6 @@ RECIPE MASTER - A FACEBOOK MESSENGER CHAT BOT -
 - Since EDMAM API only allows 5 calls per minutes, please be aware that chat bot might not giving you the results
 
 
-![sample](img/img1.png title="img1")
-![sample](img/img2.png title="img2")
-![sample](img/img3.png title="img3")
+![sample](/img/img1.png)
+![sample](/img/img2.png)
+![sample](/img/img3.png)
