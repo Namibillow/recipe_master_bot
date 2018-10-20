@@ -7,6 +7,7 @@ RECIPE MASTER - A FACEBOOK MESSENGER CHAT BOT -
 
 - Since EDMAM API only allows 5 calls per minutes, please be aware that chat bot might not giving you the results
 
+- Used Youtube API, Edmam API
 
 ![sample](/img/img1.png)
 ![sample](/img/img2.png)
